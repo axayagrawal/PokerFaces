@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "@/components/ui/card": "^1.0.0",
-    "@/components/ui/button": "^1.0.0",
-    "@/components/ui/input": "^1.0.0",
-    "@/components/ui/label": "^1.0.0"
+    "react-dom": "^17.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
